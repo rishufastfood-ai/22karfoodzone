@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://22karfoodzone.in/sitemap.xml
